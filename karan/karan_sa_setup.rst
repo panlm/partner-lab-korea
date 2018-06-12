@@ -9,7 +9,7 @@ Overview
 
 .. note::
 
-  This lab is **NOT** required for the Taiwan Partner Lab and is available here for later reference.
+  This lab is **NOT** required for the Korea Partner Lab and is available here for later reference.
 
   Estimated time to complete: **30 MINUTES**
 

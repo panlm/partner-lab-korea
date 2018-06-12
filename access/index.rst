@@ -1,11 +1,11 @@
-***************************************
-Taiwan Partner Labs - Accessing Content
-***************************************
+**************************************
+Korea Partner Labs - Accessing Content
+**************************************
 
 Overview
 ********
 
-Accessing the Taiwan Partner Labs is done via the Nutanix Hosted POC Citrix environment.
+Accessing the Korea Partner Labs is done via the Nutanix Hosted POC Citrix environment.
 
 Hosted POC Access:
 ******************

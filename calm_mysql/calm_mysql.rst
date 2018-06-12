@@ -10,7 +10,7 @@ Overview
 
 .. note::
 
-  This lab must be completed after SSP has been configured.  For the Taiwan Partner Lab, the SSP step has already been completed for you.
+  This lab must be completed after SSP has been configured.  For the Korea Partner Lab, the SSP step has already been completed for you.
 
   Estimated time to complete: **40 MINUTES**
 
