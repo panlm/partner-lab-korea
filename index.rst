@@ -1,11 +1,11 @@
-.. title:: Taiwan Partner Lab May 2018
+.. title:: Korea Partner Lab May 2018
 
 .. toctree::
   :maxdepth: 2
   :caption:     Accessing The Labs
   :name: _lab-access
   :hidden:
-  
+
   access/index
 
 .. toctree::
@@ -21,7 +21,7 @@
   calm_mrkt_p1/calm_marketplace_p1
   calm_mrkt_p2/calm_marketplace_p2
   karan/karan_sa_setup
-  
+
 .. toctree::
   :maxdepth: 2
   :caption:     Optional Labs
@@ -29,7 +29,7 @@
   :hidden:
 
   rest/calm/calm_workshop_lab5_api
-  
+
 .. _getting_started:
 
 Getting Started
@@ -38,8 +38,8 @@ Getting Started
 .. raw:: html
 
   <strong><font color="red">Do not start any labs before being told to do so by your Presenter.</font></strong>
-  
-The Taiwan Partner Lab 2018 session is intended to provide hands-on time with Nutanix Prism Central and Nutanix Calm.
+
+The Korea Partner Lab 2018 session is intended to provide hands-on time with Nutanix Prism Central and Nutanix Calm.
 
 Takeaways from the labs, at a high-level, are as follows:
 
@@ -52,7 +52,7 @@ Takeaways from the labs, at a high-level, are as follows:
 
 .. raw:: html
 
-  <strong><font color="red">There are a small number of labs that are not required for this session but that have been left on this site for later reference.  Please don't do them, during this session.  :)</font></strong> 
+  <strong><font color="red">There are a small number of labs that are not required for this session but that have been left on this site for later reference.  Please don't do them, during this session.  :)</font></strong>
 
 .. _cluster_details:
 
